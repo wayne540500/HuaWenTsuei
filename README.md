@@ -1,3 +1,5 @@
 # HuaWenTsuei
 
-Hi There
+Hi There!
+
+I'm Hua Wen from Taiwan
